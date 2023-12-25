@@ -16,10 +16,3 @@
 
 #pragma once
 
-#ifdef RGBLIGHT_ENABLE
-#    define RGBLIGHT_EFFECT_BREATHING
-#endif
-
-#ifdef OLED_ENABLE
-#    define OLED_DISPLAY_HEIGHT 32
-#endif
