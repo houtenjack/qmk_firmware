@@ -16,3 +16,4 @@
 
 #pragma once
 
+#define OLED_FONT_H "keyboards/splitkb/aurora/corne/glcdfont.c"
